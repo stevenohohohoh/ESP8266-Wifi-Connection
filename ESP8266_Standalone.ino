@@ -7,8 +7,8 @@ char auth[] = "AogSsrFOBhYackLXGc-sd67V3oY_Dofc";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "IODATA-e9742c-2G";
-char pass[] = "5261564395227";
+char ssid[] = "WIFI";
+char pass[] = "xxxxx";
 
 int In1 = 0; //D3
 int In2 = 2; //D4
