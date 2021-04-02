@@ -2,8 +2,8 @@
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h>
 
-#define NAME "IODATA-e9742c-2G"
-#define PASS "5261564395227"
+#define NAME "wifiname"
+#define PASS "xxxxxx"
 
 const char* host = "localhost";
 LiquidCrystal_I2C lcd(0x27, 16, 2);
