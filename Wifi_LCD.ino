@@ -3,8 +3,8 @@
 #include <Wire.h>
 #define LED 4
 
-const char* ssid = "IODATA-e9742c-2G";
-const char* password = "5261564395227";
+const char* ssid = "wifiname";
+const char* password = "xxxxx";
 unsigned char status_led=0;
 WiFiServer server(80);
 LiquidCrystal_I2C lcd(0x27, 16, 2);
